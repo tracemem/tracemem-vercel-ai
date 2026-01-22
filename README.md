@@ -88,4 +88,4 @@ However, you must ensure that your agent prompts do not encourage leaking secret
 
 ## License
 
-ISC
+Apache License 2.0
