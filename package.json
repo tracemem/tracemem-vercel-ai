@@ -11,7 +11,7 @@
     "url": "https://github.com/tracemem/tracemem-vercel-ai/issues"
   },
   "author": "reDB <support@redb.co>",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "keywords": [
     "tracemem",
     "vercel",
