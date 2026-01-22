@@ -1,6 +1,6 @@
 {
   "name": "@tracemem/vercel-ai",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Vercel AI SDK integration for TraceMem",
   "repository": {
     "type": "git",
